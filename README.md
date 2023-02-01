@@ -55,7 +55,7 @@ https://www.spigotmc.org/wiki/buildtools/
 
 Once you have a Spigot server running, compile the plugin using Maven:
 
-`$ git clone https://github.com/Exortions/skyblock-2.0`
+`$ git clone https://github.com/DcRubik/skyblock-2.0`
 
 `$ cd skyblock-2.0`
 
